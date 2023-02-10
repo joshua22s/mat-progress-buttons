@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/michaeldoye/mat-progress-buttons.git"
+    "url": "git@github.com:joshua22s/mat-progress-buttons.git"
   },
   "license": "MIT",
   "keywords": [
@@ -21,10 +21,10 @@
   },
   "private": false,
   "peerDependencies": {
-    "@angular/common": "^12.1.2",
-    "@angular/core": "^12.1.2",
-    "@angular/cdk": "^12.1.1",
-    "@angular/material": "^12.1.1"
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0",
+    "@angular/cdk": "^14.0.0",
+    "@angular/material": "^14.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
